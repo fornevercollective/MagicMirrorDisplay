@@ -1,4 +1,5 @@
 ### VIEW LIVE DEMO https://fornevercollective.github.io/MagicMirrorDisplay/
+### VIEW FIGMA BUILD https://www.figma.com/make/qi8cPHoooaWUQUxNqFBmKq/FIGMA---Magic-Mirror-Display?node-id=0-4&t=dTbN5zeJLQSVNxnP-1&code-node-id=0-8
 <img width="1278" alt="MagicMirror" src="https://github.com/user-attachments/assets/d4017da9-7464-40d0-9a01-3f56dc67db67" />
 
 
