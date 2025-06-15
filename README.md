@@ -1,6 +1,6 @@
-
-<img width="1278" alt="MagicMirror" src="https://github.com/user-attachments/assets/d4017da9-7464-40d0-9a01-3f56dc67db67" />
 ### VIEW LIVE DEMO https://fornevercollective.github.io/MagicMirrorDisplay/
+<img width="1278" alt="MagicMirror" src="https://github.com/user-attachments/assets/d4017da9-7464-40d0-9a01-3f56dc67db67" />
+
 
 # Magic Mirror Pro v2.0 - Beauty Smart Mirror System
 
